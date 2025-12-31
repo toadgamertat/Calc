@@ -1,5 +1,4 @@
-A fully functional scientific calculator built in Python using Tkinter and VS Code.
-This project supports standard arithmetic, trigonometric functions, square root, sign switching, backspace, and clear operations
+First Project: Calculator
 
 Features
 Basic Calculator Functions
