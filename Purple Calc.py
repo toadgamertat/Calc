@@ -196,9 +196,10 @@ bg= 'purple')
 btnDot.grid(row=6, column=1, pady=1)
 
 btnEqual= Button(MainFrame, width=6, height=2, font=('arial',16, 'bold'), bd=4,text="=",
-bg= 'purple')
+bg= 'purple', command=added_value.sum_of_total)
 btnEqual.grid(row=6, column=2, pady=1)
 
 #========================================================================================================#
 
 root.mainloop()
+
